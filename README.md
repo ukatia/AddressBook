@@ -23,4 +23,7 @@ Class members: name, home, mobile, email, address <br/>
 ### UI
 The main window contains a datagrid with the contacts. The columns are the members of the Contact class and the rows the objects contained in the list 'contacts'.<br/>
 Below, there are textboxes with labels where the user can set every field and add a new contact, modify or remove an existing contact by clicking on the corresponding button.<br/>
+Note: The application keeps track of contacts in a list in memory and doesn't use a database.
+
+![Screenshot](screenshot.jpg)
 
